@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 Hello
 Testing pages
 
-Image testing: ![Computer](/assets/images/computer.png)
+Image testing: ![Computer](/makaylac02/docs/assets/images/computer.png)

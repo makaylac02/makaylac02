@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 Hello
 Testing pages
+
+Image testing: ![Computer](/docs/assets/images/computer.png)
